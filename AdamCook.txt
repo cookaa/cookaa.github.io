@@ -1,0 +1,13 @@
+<span id="a">adam@cook</span>:<span id="b">~</span><span id="c">$</span> cd AdamCook/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->adamcook.txt<br/><br/>
+My life motto: "<span id="k">Make the future you want to see</span>". <!-- sjkfhskjf -->
+
+Hi There! This is my terminal based portflio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a Computer Science and Biology Major at Allegheny College.</p>
+<p>I love working on different types of projects.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I have worked on a great number of hardware projects, such as a Tesla Coil, Van de Graaff Generator, solar hydrogen generator. A few of my code projects are a financial planner, a retirement planner, a video game t face your fears, a 3d pinball game, and a particle simulator. Feel free to check out some of my work!<a href="https://github.com/cookaa"> Github Projects</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Find out more about me! <br><br><br>Here are a few links: <a href="cookaa.github.io"> My website</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Here are a few of my other professional profiles: <br> <a href="link1">Profile1</a> <br> <a href="https://github.com/cookaa">GitHub</a> and <br> <a href="https://www.linkedin.com/in/biocook/">LinkedIn</a>.</p>
+
+Feel free to reach out and contact me anytime!<!-- slightdelayhere-->, send me an email at<!-- longlonglongcomment --><a href="cooka@allegheny.edu">Email</a>.
+
+<p>Thanks for visiting!</p>
