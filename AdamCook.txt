@@ -9,6 +9,7 @@ Hi There! This is my terminal based portflio website.<!-- laglaglaglaglaglaglagl
 <p> Here are a few of my other professional profiles: <br> <a href="https://drive.google.com/file/d/1B5oF16CnwJfn3sDIw32xkDQ6xu6BSXkH/view?usp=sharing">Resume</a> <br> <a href="https://github.com/cookaa">GitHub</a> and <br> <a href="https://www.linkedin.com/in/biocook/">LinkedIn</a>.</p>
 
 <p><a href="/resume.html">Resume</a></p>
+
 Feel free to reach out and contact me anytime!<!-- slightdelayhere-->, send me an email at <!-- longlonglongcomment --><a href="cooka@allegheny.edu">Email</a>.
 
 <p>Thanks for visiting!</p>
